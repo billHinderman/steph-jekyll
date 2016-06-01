@@ -14,7 +14,7 @@ description: > # Making changes in life is not always easy, but also not impossi
   confidence and skills to be a happy, healthy, and successful individual.
   I provide individual, couples, child, and family therapy.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://skbtherapy.com" # the base hostname & protocol for your site
+url: "http://billhinderman.github.io/steph-jekyll/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
