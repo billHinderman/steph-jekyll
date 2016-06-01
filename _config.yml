@@ -13,7 +13,7 @@ description: > # Making changes in life is not always easy, but also not impossi
   and supportive environment you can explore your thoughts and feelings. Learn to develop the
   confidence and skills to be a happy, healthy, and successful individual.
   I provide individual, couples, child, and family therapy.
-baseurl: "/steph-jekyll/" # the subpath of your site, e.g. /blog
+baseurl: "/steph-jekyll" # the subpath of your site, e.g. /blog
 url: "http://billhinderman.github.io" # the base hostname & protocol for your site
 
 # Build settings
