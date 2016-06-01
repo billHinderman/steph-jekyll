@@ -1,0 +1,22 @@
+body {
+  background: $feather;
+  background: linear-gradient(to right, $feather 0%,$marine 100%);
+  color: $white;
+  font-family: $serif;
+  flex-direction: column;
+  line-height: 1.44;
+}
+
+* {
+  box-sizing: border-box;
+}
+::-moz-selection {
+  color: $black;
+}
+::selection {
+  color: $black;
+}
+
+img {
+  max-width: 100%;
+}

@@ -1,0 +1,89 @@
+h1 {
+  font-family: $helvetica;
+  font-size: 1.999*$em;
+  font-weight: 100;
+  text-transform: uppercase;
+}
+.home-content h1 {
+  font-size: 1.999*$em;
+  text-align: center;
+  .head {
+    display: block;
+  }
+  .subhead {
+    font-family: $abril;
+    font-size: 1.2*$em;
+    letter-spacing: 1.12px;
+    font-weight: normal;
+    text-transform: none;
+    position: relative;
+    &:before,
+    &:after {
+      border-top: .125*$em solid $white_not;
+      content: "";
+      display: block;
+      position: absolute;
+      top: 50%;
+      width: 4*$em;
+    }
+    &:after {
+      right: -5*$em;;
+    }
+    &:before {
+      left: -5*$em;
+    }
+  }
+  @media screen and (min-width: $m-l) {
+    font-size: 4.242*$em;
+    .head {
+      margin-bottom: -2.424*$em;
+    }
+    .subhead {
+      font-size: 1.999*$em;
+    }
+  }
+}
+
+h2 {
+  font-family: $helvetica;
+  font-size: 1.414*$em;
+  font-weight: bold;
+}
+
+* + h2 {
+  margin-top: 2.828*$em;
+}
+
+h3 {
+  color: $mako;
+  font-family: $helvetica;
+  font-size: 1.414*$em;
+  font-weight: bold;
+  margin-left: -1*$em;
+}
+
+h4 {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.page-content,
+.home-content {
+  font-size: 1.414*$em;
+}
+.text-black {
+  color: $black;
+}
+.text-white {
+  color: $white;
+}
+.pull-self {
+  margin-right: -.375em;
+}
+.amp {
+  font-family: $abril;
+  font-size: 1.414em;
+  font-style: italic;
+  font-weight: normal;
+  line-height: 1.414*$em;
+}

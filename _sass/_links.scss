@@ -1,0 +1,49 @@
+a.button {
+  border: .125*$em solid;
+  color: $feather;
+  font-family: $abril;
+  font-size: 1.12*$em;
+  font-weight: bold;
+  display: inline-block;
+  margin: auto;
+  padding: .5*$em $em;
+  letter-spacing: .88px;
+  transition: color .3s;
+  text-decoration: none;
+}
+a.button:hover,
+a.button:active {
+  color: $fresh;
+}
+
+a.site-title {
+  border-bottom: .125*$em solid $white_not;
+  color: $white_not;
+  font-family: $abril;
+  font-weight: 100;
+  text-align: center;
+  text-decoration: none;
+  transition: color .3s;
+  @media screen and (min-width: $m-l) {
+    text-align: left;
+    white-space: nowrap;
+  }
+  &:hover {
+    color: $mako;
+  }
+}
+a.page-link {
+  color: $white_not;
+  font-family: $helvetica;
+  font-weight: 100;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: color .3s;
+  @media screen and (min-width: $m-l) {
+    border-bottom: .125*$em solid $white_not;
+  }
+  &:hover {
+    color: $mako;
+  }
+}

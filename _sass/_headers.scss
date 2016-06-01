@@ -1,0 +1,22 @@
+.site-header {
+  background: $feather;
+  background: linear-gradient(to right, $feather 0%,$marine 100%);
+  padding-bottom: $em;
+  margin-bottom: -1px;
+  transform: skewY(0deg) translateZ(0);
+  .wrapper {
+    transform: skewY(-0deg) translateZ(0);
+  }
+}
+.page-header {
+  background: $feather;
+  background: linear-gradient(to right, $feather 0%,$marine 100%);
+  color: $white_not;
+  padding-bottom: 2*$em;
+  margin-bottom: -1px;
+  text-align: center;
+  transform: skewY(0deg) translateZ(0);
+  .wrapper {
+    transform: skewY(-0deg) translateZ(0);
+  }
+}
