@@ -5,7 +5,7 @@ display_title: Getting Started
 permalink: /getting-started/
 ---
 
-My Office is located in the Merchandise Mart at: 222 W Merchandise Mart Plaza, Suite 4052 Chicago, IL 60654.
+My Office is located across from the Merchandise Mart at: 325 N Wells, Suite 728 Chicago, IL 60654.
 
 My office hours are: M-F 5pm-9pm.
 

@@ -15,15 +15,18 @@ On average $120-$200. I also offer a sliding scale fee for client’s paying out
 
 ### Where are you located?
 
-I am located in the Merchandise Mart at: 222 W Merchandise Mart Plaza in suite 4052 located within the Chicago School of Professional Psychology campus. The office is on the 4th floor and can be accessed by the “Wells St.” elevators.
+I am located across from the Merchandise Mart at 325 N Wells, Suite 728 located within the Chicago School of Professional Psychology campus. My office is on the 7th floor.
 
 ### How do I get there?
 
-Merchandise Mart is accessible by the Brown and Purple Lines. There are also several bus stops in the area.
+The office is accessible by the Brown and Purple Lines, exit at the Merchandise Mart stop. There are also several bus stops in the area.
 
 ### Is there parking?
 
 There are two parking garages: Mart Parc Wells 401 N Wells St. & Mart Parc Orleans 437 N Orleans, St. Limited street parking is available in the area.
+
+### What is Teletherapy?
+Traveling to an office for therapy is often not convenient and, for some people, it is not possible. Teletherapy is an online session through a secure, HIPPA compliant, web-based video phone.
 
 ### Do you have a cancellation policy?
 
