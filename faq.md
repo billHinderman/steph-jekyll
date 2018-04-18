@@ -7,30 +7,23 @@ permalink: /faq/
 
 ### How long are the sessions?
 
-55 minutes.
+45-55 minutes.
 
 ### How much do sessions cost?
 
-On average $120-$200. I also offer a sliding scale fee for client’s paying out of pocket. I also accept insurance. I am in network with BCBS PPO and accept other out of network insurances.
+I accept most insurances. The out of pocket rate for each session is $80. 
 
 ### Where are you located?
 
-I am located across from the Merchandise Mart at 325 N Wells, Suite 728 located within the Chicago School of Professional Psychology campus. My office is on the 7th floor.
-
-### How do I get there?
-
-The office is accessible by the Brown and Purple Lines, exit at the Merchandise Mart stop. There are also several bus stops in the area.
+I am located at 1537 Riverside Ave. in Fort Collins. 
 
 ### Is there parking?
 
-There are two parking garages: Mart Parc Wells 401 N Wells St. & Mart Parc Orleans 437 N Orleans, St. Limited street parking is available in the area.
-
-### What is Teletherapy?
-Traveling to an office for therapy is often not convenient and, for some people, it is not possible. Teletherapy is an online session through a secure, HIPPA compliant, web-based video phone.
+There is a small parking lot outside of the office and street parking available. 
 
 ### Do you have a cancellation policy?
 
-Yes, all cancellations must be made 24 hours prior to the appointment time. Any late cancellations and no shows are charged $75.
+Yes, all cancellations must be made 24 hours prior to the appointment time. Any late cancellations and no shows are charged $50.
 
 ### Why weekly sessions?
 

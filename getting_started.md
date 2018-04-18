@@ -5,10 +5,10 @@ display_title: Getting Started
 permalink: /getting-started/
 ---
 
-My Office is located across from the Merchandise Mart at: 325 N Wells, Suite 728 Chicago, IL 60654.
+My Office is located at 1537 Riverside Ave. Fort Collins, CO 80524
 
-My office hours are: M-F 5pm-9pm.
+My office hours are: Monday-Thursday
 
-Phone: 773-800-9447
+Phone: 720-507-7686
 
-Please call 773-800-9447 to schedule your first appointment. We will arrange a brief phone intake (10-15 minutes) prior to the 1st appointment. This will allow us time to gather important information about you as well as your insurance information. I am currently in network with Blue Cross & Blue Shield PPO and also accept out of network insurances.
+I am a part of a group practice, Heart Centered Counselors. To schedule your first appointment please call 970-310-3406. Our intake team will gather important information about you as well as your insurance information. The call typically takes 15-20 minutes.
