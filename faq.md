@@ -31,7 +31,7 @@ Therapy is most effective when there is regular, consistent contact. Weekly appo
 
 ### Are the sessions confidential?
 
-All information shared in sessions are kept completely confidential. Only incidents of health and safety are when confidentiality cannot be maintained. This is to keep you and those around you safe. Our office is compliant with HIPPA rules and regulations.
+All information shared in sessions are kept completely confidential. Only incidents of health and safety are when confidentiality cannot be maintained. This is to keep you and those around you safe. Our office is compliant with HIPAA rules and regulations.
 
 ### Do I need to bring anything to my first appointment?
 
