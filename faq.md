@@ -47,12 +47,12 @@ Just yourself! All important information, insurance, and payment, is collected t
 
 Telehealth appointments through Simple Practice are very user friendly and easy to set up. Here are some Telehealth tips:
 
-Make sure your room/space is comfortable, private, and confidential
-Find a good place to prop up your phone or computer
-Make sure the screen shows your face and part of your upper body
-Check to see that your camera and microphone are on
-Make sure your phone and computer is charged and/or plugged in
-Put your phone on “Do Not Disturb”
-Headsets can help provide more privacy if you want to use them
-Try to limit distractions such as TV, other devices, pets, roommates, children, etc. 
-It’s ok to meet in a parked car, just don’t drive!
+* Make sure your room/space is comfortable, private, and confidential
+* Find a good place to prop up your phone or computer
+* Make sure the screen shows your face and part of your upper body
+* Check to see that your camera and microphone are on
+* Make sure your phone and computer is charged and/or plugged in
+* Put your phone on “Do Not Disturb”
+* Headsets can help provide more privacy if you want to use them
+* Try to limit distractions such as TV, other devices, pets, roommates, children, etc. 
+* It’s ok to meet in a parked car, just don’t drive!
