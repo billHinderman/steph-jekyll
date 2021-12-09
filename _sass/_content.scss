@@ -35,7 +35,8 @@
 }
 
 .page-content ul {
-  list-style-type: circle
+  font-family: $helvetica;
+  font-size: 1.885333333*$em;
 }
 
 .image-holder {
@@ -54,4 +55,8 @@
 }
 .color-cotton {
   color: darken($cotton, 7%);
+}
+
+.faq-list {
+  list-style-type: circle
 }

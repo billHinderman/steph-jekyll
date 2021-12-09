@@ -51,3 +51,4 @@ Telehealth appointments through Simple Practice are very user friendly and easy 
 *  Find a good place to prop up your phone or computer.
 *  Headsets can help provide more privacy if you want to use them.
 *  Try to limit distractions such as TV, other devices, pets, roommates, children, etc. 
+{: .faq-list}
