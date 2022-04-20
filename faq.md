@@ -11,13 +11,13 @@ permalink: /faq/
 
 ### How much do sessions cost?
 
-I accept most insurances. The out of pocket rate for each session is $95. 
+We accept most insurances. The out of pocket rate for each session is $95. 
 
 ### Where are you located?
 
-Currently I am only offering Telehealth appointments.
+Currently we are only offering Telehealth appointments.
 
-When in person sessions resume, my office is located at 832 W Eisenhower Blvd Suite B1 Loveland, CO 80537
+When in person sessions resume, our office is located at 832 W Eisenhower Blvd Suite B1 Loveland, CO 80537
 
 ### Is there parking?
 
@@ -33,7 +33,7 @@ Therapy is most effective when there is regular, consistent contact. Weekly appo
 
 ### Are the sessions confidential?
 
-All information shared in sessions are kept completely confidential. Only incidents of health and safety are when confidentiality cannot be maintained. This is to keep you and those around you safe. Our office is compliant with HIPAA rules and regulations.
+All information shared in sessions are kept completely confidential. Only incidents of health and safety are when confidentiality cannot be maintained. This is to keep you and those around you safe. Our office is compliant with HIPAA rules and regulations. You can read our privacy policy here. ADD HYPERLINK TO PDF OF PRIVACY POLICY
 
 ### Do you offer free consultations?
 
@@ -47,8 +47,7 @@ Just yourself! All important information, insurance, and payment, is collected t
 
 Telehealth appointments through Simple Practice are very user friendly and easy to set up. Here are some Telehealth tips:
 
-*  Make sure your room/space is comfortable, private, and confidential.
-*  Find a good place to prop up your phone or computer.
-*  Headsets can help provide more privacy if you want to use them.
-*  Try to limit distractions such as TV, other devices, pets, roommates, children, etc. 
-{: .faq-list}
+Make sure your room/space is comfortable, private, and confidential.
+Find a good place to prop up your phone or computer.
+Headsets can help provide more privacy if you want to use them.
+Try to limit distractions such as TV, other devices, pets, roommates, children, etc. 
